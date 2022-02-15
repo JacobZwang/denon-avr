@@ -1,0 +1,1 @@
+Just some test scripts I wrote to automate my Denon avr.
